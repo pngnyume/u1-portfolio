@@ -1,5 +1,5 @@
 import styles from './HeroStyles.module.css';
-import heroImg from '../../assets/Design uten navn.png';
+import heroImg from '../../assets/yuan.png';
 import sun from '../../assets/sun.svg';
 import moon from '../../assets/moon.svg';
 import twitterLight from '../../assets/twitter-light.svg';
@@ -40,7 +40,7 @@ function Hero() {
           <br />
           Pangan
         </h1>
-        <h2>Full-stack Developer</h2>
+        <h2>CS Student || Fullstack Dev</h2>
         <span>
           <a href="https://www.instagram.com/yuanpngn?igsh=bXBxbXhqbTJ2Mms5&utm_source=qr" target="_blank">
             <img src={twitterIcon} alt="IG icon" />
